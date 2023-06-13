@@ -1,0 +1,9 @@
+[submodule "libs/DeepLabV3Plus-Pytorch"]
+	path = libs/DeepLabV3Plus-Pytorch
+	url = https://github.com/VainF/DeepLabV3Plus-Pytorch
+[submodule "libs/mapillary_sls"]
+	path = libs/mapillary_sls
+	url = https://github.com/mapillary/mapillary_sls/
+[submodule "libs/generalized_contrastive_loss"]
+	path = libs/generalized_contrastive_loss
+	url = https://github.com/blueted2/generalized_contrastive_loss
