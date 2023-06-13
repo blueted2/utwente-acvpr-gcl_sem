@@ -1,5 +1,5 @@
 [submodule "libs/DeepLabV3Plus-Pytorch"]
-	path = gcl_sem/libs/DeepLabV3Plus-Pytorch
+	path = gcl_sem/libs/deeplabv3plus_pytorch
 	url = https://github.com/VainF/DeepLabV3Plus-Pytorch
 [submodule "libs/mapillary_sls"]
 	path = gcl_sem/libs/mapillary_sls
