@@ -41,7 +41,7 @@ def create_vpr_model(name, pool, last_layer=None, norm=None, p_gem=3, mode="siam
 # TODO take parameters
 def create_semantic_net():
 
-    # TODO absolute path
+    # TODO absolute path bad plz fix
     weights = "/home/s3155900/gregory/generalized_contrastive_loss/deep_lab_v3/best_deeplabv3plus_resnet101_cityscapes_os16.pth"
 
     # instantiate a semantic segmentation model and load with pretrained weights
